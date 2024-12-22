@@ -1,0 +1,30 @@
+label, input.form-control, button.btn.btn-danger {
+    font-size: 25px;
+}
+
+.quadradoPai {
+    height: 77vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background: rgba(204, 56, 56, 1);
+}
+
+a {
+    list-style-type: none;
+    text-decoration: none;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.4px);
+    -webkit-backdrop-filter: blur(10.4px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 0px 10px;
+    color: white;
+    font-size: 47px;
+    text-align: center;
+    width: 45%;
+}

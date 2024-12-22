@@ -1,0 +1,12 @@
+.row.gap {
+    margin-bottom: 18px;
+}
+
+.container.d-flex {
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container.d-flex {
+    margin-top: 8%;
+}
